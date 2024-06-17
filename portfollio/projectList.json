@@ -1,22 +1,8 @@
 [
     {
-        "title": "Project 1",
-        "description": "This is a project",
-        "image": "project1.jpg",
-        "link": "https://www.google.com"
-    
-    },
-    {
-        "title": "Project 2",
-        "description": "This is a project",
-        "image": "project2.jpg",
-        "link": "https://www.google.com"
-    
-    },
-    {
-        "title": "Project 3",
-        "description": "This is a project",
-        "image": "project3.jpg",
-        "link": "https://www.google.com"
+        "title": "ZeroWaste: A record keeping app for waste management",
+        "imageUrl": "/images/project1.jpeg",
+        "techStack": ["Laravel", "MySQL", "TailwindCSS", "Babel"],
+        "sourceUrl": "https://github.com/Satishcg12/waste_management/settings"
     }
 ]
