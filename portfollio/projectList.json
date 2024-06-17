@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Project 1",
+        "description": "This is a project",
+        "image": "project1.jpg",
+        "link": "https://www.google.com"
+    
+    },
+    {
+        "title": "Project 2",
+        "description": "This is a project",
+        "image": "project2.jpg",
+        "link": "https://www.google.com"
+    
+    },
+    {
+        "title": "Project 3",
+        "description": "This is a project",
+        "image": "project3.jpg",
+        "link": "https://www.google.com"
+    }
+]
