@@ -1,52 +1,52 @@
 [
     {
-      title: "Web Developer",
-      techs: [
+      "title": "Web Developer",
+      "techs": [
         {
-          name: "HTML, CSS, JavaScript",
-          expLevel: "Experienced",
+          "name": "HTML, CSS, JavaScript",
+          "expLevel": "Experienced"
         },
         {
-          name: "PHP",
-          expLevel: "Experienced",
+          "name": "PHP",
+          "expLevel": "Experienced"
         },
         {
-          name: "MySQL",
-          expLevel: "Intermediate",
+          "name": "MySQL",
+          "expLevel": "Intermediate"
         },
         {
-          name: "React",
-          expLevel: "Intermediate",
+          "name": "React",
+          "expLevel": "Intermediate"
         },
         {
-          name: "Node.js",
-          expLevel: "Beginner",
+          "name": "Node.js",
+          "expLevel": "Beginner"
         },
         {
-          name: "MongoDB",
-          expLevel: "Beginner",
-        },
-      ],
+          "name": "MongoDB",
+          "expLevel": "Beginner"
+        }
+      ]
     },
     {
-      title: "Other Technologies",
-      techs: [
+      "title": "Other Technologies",
+      "techs": [
         {
-          name: "Github",
-          expLevel: "Experienced",
+          "name": "Github",
+          "expLevel": "Experienced"
         },
         {
-          name: "Linux",
-          expLevel: "Intermediate",
+          "name": "Linux",
+          "expLevel": "Intermediate"
         },
         {
-          name: "Docker",
-          expLevel: "Beginner",
+          "name": "Docker",
+          "expLevel": "Beginner"
         },
         {
-          name: "Kubernetes",
-          expLevel: "Beginner",
-        },
-      ],
-    },
+          "name": "Kubernetes",
+          "expLevel": "Beginner"
+        }
+      ]
+    }
   ]
