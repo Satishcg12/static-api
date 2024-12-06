@@ -3,6 +3,7 @@
         "title": "ZeroWaste: A record keeping app for waste management",
         "imageUrl": "/images/project1.jpeg",
         "techStack": ["Laravel", "MySQL", "TailwindCSS", "Babel"],
-        "sourceUrl": "https://github.com/Satishcg12/waste_management"
+        "sourceUrl": "https://github.com/Satishcg12/waste_management",
+        "demoUrl": "https://zerowaste.satishchaudhary.com.np/"
     }
 ]
